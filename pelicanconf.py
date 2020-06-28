@@ -9,7 +9,7 @@ SITEURL = ''
 PATH = 'content'
 
 TIMEZONE = 'Europe/Paris'
-
+THEME='attila-02dcad911ba1eb2d797a79ec008a810d89a2fde1'
 DEFAULT_LANG = 'fr'
 
 # Feed generation is usually not desired when developing

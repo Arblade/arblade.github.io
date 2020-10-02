@@ -1,8 +1,8 @@
-Title: Mon blog avec pelican
+Title: Mon premier article
 Date: 2010-12-03 10:20
-Tags: linux, python, pelican
-Category: python
+Tags: beginner
+Category: main
 Slug: first-post
-Author: Sacha Schutz
+Author: Arblade
 
-Ceci est le contenu de mon premier poste
+# Bonjour à tous, voici un premier test

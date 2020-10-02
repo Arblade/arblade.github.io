@@ -3,13 +3,13 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'arblade'
-SITENAME = "Arblade's Projects"
+SITENAME = "Arblade\'s Projects"
 SITEURL = ''
 
 PATH = 'content'
 
 TIMEZONE = 'Europe/Paris'
-THEME='attila-02dcad911ba1eb2d797a79ec008a810d89a2fde1'
+THEME='other_themes/attila-02dcad911ba1eb2d797a79ec008a810d89a2fde1'
 DEFAULT_LANG = 'fr'
 
 # Feed generation is usually not desired when developing
